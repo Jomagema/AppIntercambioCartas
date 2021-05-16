@@ -1,0 +1,8 @@
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\YugiohActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\MagicActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\RegisterActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\PokemonActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\MainActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\MainActivity2.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\DBSuperActivity.kt
+C:\Users\Jose\AndroidStudioProjects\AppIntercambioCartas\app\src\main\java\com\example\appintercambiocartas\LoginActivity.kt

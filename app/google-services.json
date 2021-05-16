@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293376220663",
+    "project_id": "appintercambiocartas-e195b",
+    "storage_bucket": "appintercambiocartas-e195b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293376220663:android:3ae17a9a4131b1fc81e2f2",
+        "android_client_info": {
+          "package_name": "com.example.appintercambiocartas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293376220663-gkiv0otbjfsbj8f7a6hghlcijkpdr4bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxKPa2LsUV5_S_RtjFfEoSWH6PJvyiIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293376220663-gkiv0otbjfsbj8f7a6hghlcijkpdr4bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

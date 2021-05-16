@@ -1,0 +1,2 @@
+com/example/appintercambiocartas/BuildConfig.java
+ com.example.appintercambiocartas.BuildConfig
